@@ -29,5 +29,7 @@ marketing_campaign-selected-columns.csv
 Intermediate/selected column file
 README.md
 Project overview and documentation
-✅ Outcome
+
+ Outcome
+ A clean, structured dataset (2236 records) free of missing values and inconsistencies — ready for exploratory data analysis, segmentation, or machine learning tasks.
 A clean, structured dataset (2236 records) free of missing values and inconsistencies — ready for exploratory data analysis, segmentation, or machine learning tasks
